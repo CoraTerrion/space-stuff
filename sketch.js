@@ -15,7 +15,6 @@ let easing = 0.05;
 let stars = [];
 let shootingStars = [];
 
-
 //from class based on https://learn.ml5js.org/#/reference/handpose
 function setup() {
   createCanvas(640, 480, WEBGL);
